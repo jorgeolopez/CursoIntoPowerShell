@@ -1,1 +1,1 @@
-Write-Host "Hola mundo!"
+Write-Host "¡Hola mundo!"
