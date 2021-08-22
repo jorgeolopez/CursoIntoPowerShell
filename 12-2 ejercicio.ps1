@@ -1,2 +1,2 @@
-$mensaje ="¡Hola Mundo, te quiero comer!"
+$mensaje ="¡Hola Mundo!"
 Write-Host $mensaje
