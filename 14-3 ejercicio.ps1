@@ -11,7 +11,6 @@ for($i= 1;$i -le $numero; $i+=2){
         if (($numero - $i) -ne 0)
         {
                 $mensaje+=","
-        }
-        
+        }     
 }
 Write-Host $mensaje
